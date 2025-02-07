@@ -1,0 +1,19 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+
+.table2 {
+    height: 20px;
+}
+
+.box1 {
+    background-color: rgb(179, 21, 21);
+    text-align: center;
+}
+
+.box2 {
+    background-color: rgb(221, 32, 139);
+    text-align: center;
+}
+
