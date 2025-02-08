@@ -35,7 +35,7 @@
 }
 
 .navbar a:hover {
-    background-color: #ddd;
+    background-color: #bdbbbb;
 }
 
 .dropdown {
@@ -54,11 +54,12 @@
     padding: 10px;
     display: block;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #bdbbbb;
+
 }
 
 .dropdown-content a:hover {
-    background-color: #bdbbbb;
+    background-color: #ddd;
 }
 
 .dropdown:hover .dropdown-content {
